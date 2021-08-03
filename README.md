@@ -140,6 +140,8 @@ WriteUp with sanitized and generic information.
 
 - Due to EDR terminate and blocked the process, there is no binary generated and there might missing some byte to re-create the malicious binary
 
+<br />
+
 ---
 
 > Do let me know any command or step can be improve or you have any question you can contact me via THM message or write down comment below or via FB
