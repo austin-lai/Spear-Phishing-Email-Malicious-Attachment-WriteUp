@@ -1,5 +1,5 @@
 
-# Phishing-Email-Malicious-Attachment-WriteUp
+# Spear Phishing Email Malicious Attachment WriteUp
 
 > Austin Lai | July 29th, 2021
 
@@ -7,7 +7,7 @@
 
 <!-- Description -->
 
-WriteUp Regarding a Spam Email - Phishing - Malicious Attachment
+WriteUp Regarding a Spam Email - Spear Phishing - Malicious Attachment
 
 WriteUp with sanitized and generic information.
 
@@ -19,7 +19,7 @@ WriteUp with sanitized and generic information.
 
 <!-- TOC -->
 
-- [Phishing-Email-Malicious-Attachment-WriteUp](#phishing-email-malicious-attachment-writeup)
+- [Spear Phishing Email Malicious Attachment WriteUp](#spear-phishing-email-malicious-attachment-writeup)
     - [Table of Contents](#table-of-contents)
     - [Analysis](#analysis)
         - [Malicious activities reported by Endpoint Detection and Response EDR Solution](#malicious-activities-reported-by-endpoint-detection-and-response-edr-solution)
