@@ -42,7 +42,7 @@ WriteUp with sanitized and generic information.
 
 ### Investigate through SIEM
 
-- Information gathered from [ logs \| events ] as below:
+- Information gathered from \[ logs \| events \] as below:
 
     - First email seen
     - There was no relevant log shown in anti-spam
