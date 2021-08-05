@@ -24,6 +24,7 @@ WriteUp with sanitized and generic information.
     - [Analysis](#analysis)
         - [Malicious activities reported by Endpoint Detection and Response EDR Solution](#malicious-activities-reported-by-endpoint-detection-and-response-edr-solution)
         - [Investigate through SIEM](#investigate-through-siem)
+            - [Additional Note](#additional-note)
         - [Malicious Activities Triggered Details](#malicious-activities-triggered-details)
 
 <!-- /TOC -->
@@ -53,6 +54,14 @@ WriteUp with sanitized and generic information.
     - It was not reflected as virus nor malware
     - No firewall log shown relevant event
     - No Web Isolation logs shown relevant event
+
+<br />
+
+#### Additional Note
+
+If you have the access to the Windows Event Log of Infected Machines, you will find alot more details regards to the malicious activity, provided you have turn on Windows Audit and Logging in the first place.
+
+Try to look at the "Windows Powershell" log as well.
 
 <br />
 
